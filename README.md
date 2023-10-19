@@ -5,5 +5,7 @@
 - gambar
 
 ![image1](/ssimage/ss1.jpg)
-![image1](/ssimage/ss2.jpg)
 
+- gambar2
+
+![image1](/ssimage/ss2.jpg)
